@@ -1,3 +1,5 @@
+https://shopping-cart-project-toolkit.netlify.app/
+
 # 🛒 Shopping Cart with Redux Toolkit
 
 This is a simple Shopping Cart application built with **React** and **Redux Toolkit**. It demonstrates the use of Redux Toolkit for efficient and scalable state management in a modern web application.
